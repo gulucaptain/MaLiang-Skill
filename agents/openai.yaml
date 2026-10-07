@@ -1,0 +1,4 @@
+interface:
+  display_name: "MaLiang"
+  short_description: "Create editable images and animations with visual feedback"
+  default_prompt: "Use $maliang to create an editable visual artwork and verify the rendered result."
